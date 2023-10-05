@@ -12,4 +12,4 @@ You'll need a web browser to run the game. There are no additional dependencies.
  Clone the repository to your local machine using Git:
 
    `bash
-   git clone https://github.com/Sposmruti/Dragon-Game.git
+   git clone https://github.com/Sposmruti/Dargon-Game.git
