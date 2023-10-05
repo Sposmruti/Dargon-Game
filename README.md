@@ -8,3 +8,8 @@ These instructions will help you get a copy of the project up and running on you
 ### Prerequisites
 
 You'll need a web browser to run the game. There are no additional dependencies.
+### Installing
+ Clone the repository to your local machine using Git:
+
+   `bash
+   git clone https://github.com/Sposmruti/Dragon-Game.git
